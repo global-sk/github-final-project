@@ -6,3 +6,26 @@
    &emsp;**r,** annual rate of interest<br />
 **Output**<br />
    &emsp;**simple interest** = p\*t\*r<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2021 XYZ, Inc.
